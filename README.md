@@ -1,2 +1,2 @@
 # Rawflame Studios
-![Profile Views](https://komarev.com/ghpvc/?RawflameStudios&color=blue)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=RawflameStudios)
